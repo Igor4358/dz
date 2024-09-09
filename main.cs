@@ -131,7 +131,7 @@ class program
     }
     #endregion
     
-    #region chess
+    #region hardchess 
     Console.WriteLine();
     Console.WriteLine();
     for(int i=0;i<5;i++)
