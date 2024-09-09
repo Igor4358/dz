@@ -1,7 +1,12 @@
 using System;
-class HelloWorld 
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+class program
 {
-  static void Main() 
+  static void Main(string[] args) 
   {
     #region rectangle
      
@@ -109,9 +114,9 @@ class HelloWorld
 
         Console.WriteLine();
     }
-      #endregion
+    #endregion
       
-      #region rectangle2
+    #region rectangle2
     Console.WriteLine();
     for(int i=0;i<5;i++)
     {
