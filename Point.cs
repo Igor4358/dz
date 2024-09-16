@@ -6,8 +6,8 @@ class Point
   
   public Point(int x,int y)
   {
-      X =x;
-      Y =y;
+      X = x;
+      Y = y;
   }
   public double Distance(Point otherPoint)
   {
